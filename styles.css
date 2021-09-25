@@ -166,9 +166,9 @@ line-height:1.5rem;
   text-align: center;
 }
 
-@media  (max-width:876px){
+@media  (min-width:976px){
   #title{
-    text-align: center;
+    text-align:center;
   }
 .title-image{
   position: static;
